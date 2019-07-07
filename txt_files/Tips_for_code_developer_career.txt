@@ -1,0 +1,43 @@
+https://www.youtube.com/watch?v=c3FXQU3TyCU
+
+I. Start building your skills with Version Control
+eg.. github, gitlab, etc.
+Build your Repository and have some projects in their. 
+
+
+II. Learn Pep8 style guidelines for python
+
+    Focus on Readable Code. 
+	  
+	pep8 website:  https://www.python.org/dev/peps/pep-0008/.	  
+
+
+
+III. Master Documentation - document functions, 
+variables, and data structures
+
+
+ 
+IV.  Read other people's code at your skill level. 
+     Read and go from there. 
+	 Read Code daily to help focus your skill levels. 
+	 
+	 Look up examples on StackFlow
+	 
+	 Look Kenneth Reitz - Http for humans. 
+	 
+	 Look up Raymond Hettinger
+	 
+	 
+	 
+V.  Read Books on Python... 
+
+    O'Reilly - Fluent Python. 
+    Also the Progmatic Programmers 
+	
+	
+	
+VI. Look up online programs. 
+    Lambaschool online - pay when you land your first job online.
+	Udacity 
+	

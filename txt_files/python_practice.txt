@@ -1,0 +1,33 @@
+
+
+
+class Orange:
+    def__init__(self, w, c):
+		self.weight = w
+		self.color = c
+		print ("Created!")
+		
+		
+or1 = Orange (4, "light orange")
+or2 = Orange (8, "dark orange")
+or3 = Orange (14, "yellow")
+
+print (or1.weight)
+print (or1.color)	
+print (or2.weight)
+print (or2.color)
+print (or3.weight)
+print (or3.color)
+
+
+
+Class Horse:
+	def__init__(self,
+				name,
+				breed,
+				speed
+		rider):
+		self.name = name
+		self.breed = breed
+		
+		
