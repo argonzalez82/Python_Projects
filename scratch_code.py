@@ -20,3 +20,33 @@ list1 = [10, 20, 4, 45, 99]
 # printing the maximum element
 print("Largest element is:", max(list1))
 print(50)
+
+
+nums = {1, 2, 1, 3, 1, 4, 5, 6}
+words = {"dog", "cat","random", "purple"}
+print(nums)
+nums.add(-7)
+nums.remove(3)
+print(nums)
+print()
+
+print(words)
+print()
+words.pop()
+print(words)
+print()
+
+words.pop()
+print(words)
+print()
+
+print(list1)
+list1.pop()
+print()
+print(list1)
+print()
+
+list1.pop()
+print(list1)
+print()
+

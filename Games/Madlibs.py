@@ -5,22 +5,22 @@ Command line game, maybe add GUI later,
 #creating a GUI for the game.
 
 #tkinter library for GUI's
-import tkinter
+#import tkinter
 
 #Pillow library for images
-from PIL import Image, ImageTk
+#from PIL import Image, ImageTk
 
 #loads Tkinter into the main gui
-main = tkinter.Tk()
+#main = tkinter.Tk()
 
 #loads the local photo into Python
-img = Image.open("/home/CentOS_Laptop/Pictures/photos4editing/2_Dogs_1Kid.jpg")
+#img = Image.open("/home/CentOS_Laptop/Pictures/photos4editing/2_Dogs_1Kid.jpg")
 
 #loads uploaded image into tkinter
-tkimg = ImageTk.PhotoImage(img)
+#tkimg = ImageTk.PhotoImage(img)
 
-tkinter.Label(main, image=tkimg).pack()
-main.mainloop()
+#tkinter.Label(main, image=tkimg).pack()
+#main.mainloop()
 
 
 #NextStep:
@@ -109,5 +109,3 @@ print()
 #print(message1 + message2, input())
 #list_of_questions
 #print(list_to_print)
-
-
