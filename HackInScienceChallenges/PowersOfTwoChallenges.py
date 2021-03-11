@@ -8,6 +8,8 @@
 #As a reminder, the power operator in Python is written **, so:
 
 #Example 
+
+
 print("Example code of 2 ** 5 = ",2 ** 5) #Evaluates to 32 
 
 #Challenge Code Below:
