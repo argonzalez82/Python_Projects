@@ -47,3 +47,4 @@ def solve(meal_cost, tip_percent, tax_percent):
     return solve(meal_cost, tip_percent, tax_percent)
 
 
+solve(100, 20, 7)
